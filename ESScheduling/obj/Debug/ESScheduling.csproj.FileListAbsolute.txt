@@ -1,0 +1,55 @@
+c:\users\asus-pc\documents\visual studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\ESScheduling.exe.config
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\ESScheduling.exe
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\ESScheduling.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\App.g.cs
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling_MarkupCompile.cache
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling_MarkupCompile.lref
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\MainWindow.baml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling.g.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling.Properties.Resources.resources
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling.exe
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\obj\Debug\ESScheduling.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\ESScheduling.exe.config
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.exe
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\Jobs.csv
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\ESScheduling.exe
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\ESScheduling.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.dll
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.dll
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.xml
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\bin\Debug\OxyPlot.Xps.xml
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.csprojResolveAssemblyReference.cache
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\MainWindow.g.cs
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\App.g.cs
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling_MarkupCompile.cache
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling_MarkupCompile.lref
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\MainWindow.baml
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.g.resources
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.Properties.Resources.resources
+C:\Users\emre.ardic\Desktop\ESScheduling\ESScheduling\obj\Debug\ESScheduling.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\System.Net.Http.xml
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q2_A.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q2_B.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q2_C.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q4.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q3.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs-HW3-Q1.csv
+C:\Users\ASUS-PC\Documents\Visual Studio 2015\Projects\ESScheduling\ESScheduling\bin\Debug\Samples\Jobs - Mixed.csv
